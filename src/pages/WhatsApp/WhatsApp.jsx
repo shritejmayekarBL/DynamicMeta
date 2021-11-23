@@ -7,7 +7,7 @@ const WhatsApp = () => {
             <title>BridgeLabz: Guaranteed Emerging Tech Job</title>
 
             <meta property="og:title" content="BridgeLabz: Guaranteed Emerging Tech Job" />
-            <meta property="og:image" content="https://www.bridgelabz.com/assets/referral-banners/WhatsApp-500X500.jpg" />
+            <meta property="og:image" content="https://cdn.cdnlogo.com/logos/w/35/whatsapp-icon.svg" />
             <meta name="keywords"
                 content="BridgeLabz Guarantes Dream Tech Job For Every Engineer With Top IT Companies Across India, On Emerging Technology." />
             <meta name="description" content="BridgeLabz Guarantes Dream Tech Job For Every Engineer With Top IT Companies Across India, On Emerging Technology." />
